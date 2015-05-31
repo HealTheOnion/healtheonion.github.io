@@ -8,8 +8,6 @@ stars: 5
 provider: 1
 ---
 
-![](/images/Lisa-Bio-Large.jpg)
-
 Lisa Cohen, CNM
 
 My name is Lisa Cohen, and I am proud to serve Kansas City and the surrounding areas as a home birth midwife. I opened Awakened Birthing in 2009 and while I love birth in any setting, home birth is my favorite place to be with birthing families. My passion as a midwife is providing families with true informed consent. This means that choosing me as your midwife will ensure discussions about all matters related to your pregnancy, with options regarding testing, technology, and birthing preferences. I believe I am here to educate you, support you, and guide you through your pregnancy.
