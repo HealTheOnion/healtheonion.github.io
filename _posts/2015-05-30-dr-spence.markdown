@@ -1,6 +1,0 @@
----
-layout: post
-title: "Dr. Spence"
-date: 2015-05-30T17:13:30-05:00
----
-
