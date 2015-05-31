@@ -9,6 +9,7 @@ layout: default
     <td><b>Rating</b></td>
   </tr>
   {% for post in site.posts %}
+  {% if post.provider == 1 %}
     <tr>
       <td>
         {% if post.profile %}
@@ -18,5 +19,6 @@ layout: default
       <td><a href="{{post.url}}">{{ post.title }}</a></td>
       <td><a href="{{post.url}}">{{post.stars}}</a></td>
     </tr>
+    {% endif %}
   {% endfor %}
 </table>

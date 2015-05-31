@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Amanda"
+date: 2015-05-31T12:08:26-05:00
+provider: 0
+profile: /images/amanda.jpg
+rating: 5
+comment: "Not only fixed my migraine but is an awesome person!"
+---
+

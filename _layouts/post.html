@@ -13,4 +13,17 @@ layout: default
     {{ content }}
   </article>
 
+  <table style="width:100%">
+  {% for postage in site.posts %}
+  {% if postage.provider == 0 %}
+  <tr>
+    <td><img src="{{postage.profile}}" height=100em width=auto></td>
+    <td>{{postage.title}}</td>
+    <td>{{postage.comment}}</td>
+    <td>{{postage.rating}}</td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+
+  </table>
 </div>
