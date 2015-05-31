@@ -7,7 +7,7 @@ stars: 5
 profile: /images/roxanne.jpg
 ---
 
-n 2012, I became a Licensed Massage Therapist (LMT) by the State of Mississippi and worked in the Hattiesburg, MS area. In 2013 my family moved back to Leavenworth, KS. I became a Licensed Massage Therapist by the City of Leavenworth and began working as a LMT in Leavenworth.
+In 2012, I became a Licensed Massage Therapist (LMT) by the State of Mississippi and worked in the Hattiesburg, MS area. In 2013 my family moved back to Leavenworth, KS. I became a Licensed Massage Therapist by the City of Leavenworth and began working as a LMT in Leavenworth.
 
 My massage school education, beginning in Tacoma, WA (2010) and graduating in Hattiesburg, MS (2012) includes over 900 hours. My continuing education is additional 200 plus hours.
 
